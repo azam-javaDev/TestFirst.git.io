@@ -14,3 +14,11 @@ html,body{
     justify-content: center;
     align-items: center;
 }
+.box{
+    width: 300px;
+    height: 400px;
+    background-color: lightpink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
